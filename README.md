@@ -1,5 +1,5 @@
 PEAOR
-(pronounced ~pure~)
+(pronounced ~pure)
 Welcome to the PEAOR repository!
 
 Purpose
